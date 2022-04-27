@@ -14,3 +14,4 @@ Repositório criado para o desafio de Projeto
 
 {Site para pesquisa como eram os sites famosos antigamente} (https://archive.org/)
 
+{Site para conhecimento de cabos da internet de todos paises}(https://www.submarinecablemap.com/)
